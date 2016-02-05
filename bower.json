@@ -11,6 +11,13 @@
     "output"
   ],
   "dependencies": {
-    "purescript-console": "^0.1.0"
+    "hello": "^1.10.1",
+    "purescript-aff": "^0.14.0",
+    "purescript-console": "^0.1.0",
+    "purescript-eff": "^0.1.2",
+    "purescript-exceptions": "^0.3.4",
+    "purescript-generics": "^0.7.2",
+    "purescript-maps": "^0.5.4",
+    "purescript-prelude": "^0.1.4"
   }
 }
